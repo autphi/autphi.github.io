@@ -140,14 +140,14 @@ permalink: /team/
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
-{% for member in site.data.former_msc %}
+{% for member in site.data.former_grad %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
-{% for member in site.data.former_bsc %}
+{% for member in site.data.former_undergrad %}
 {{ member.name }}
 {% endfor %}
 </div>
