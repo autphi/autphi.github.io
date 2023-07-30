@@ -1,46 +1,19 @@
 ---
-title: "Allan Lab - Research"
+title: "Philosophy on the Spectrum - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Philosophy on the Spectrum -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+It has been suggested that the "very idea of an autistic person is a philosophical one" (Murray 2011, 9) and the "subject of autism is rich with philosophical possibilities" (Anderson and Cushing 2013, 3). At the same time, however, "the philosophy of autism is not (or not yet) a subfield of philosophy) (Bölte and Richman 2020, 4) and "the amount of philosophical writing directly about autism [appears] scanty indeed" (Anderson and Cushing 2013, 2). Further, most philosophical research on autism restricts itself to questions in ethics, and the philosophy of mind, pscyhology, or medicine (Bölte and Richman 2020, 4).
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+Despite the narrow focus of philosophical engagement with autism, a much wider range of philosophical issues—particularly in the philosophy and metaphysics of science, epistemology, political philosophy, and the philosophy of disability—are apparent. For example, philosophers might debate whether autism is a deficit (as per the medical model of disability) or a difference (as per the neurodiversity perspective on autism); each of these views has important implications for how we think about, conceptualise, and intervene upon the lives of autistic individuals. Neurodiversity has moral, political, and practical implications for the rights and obligations of autistic individuals and broader society. The philosophical literature on autism could (or should) engage with a wide range of complex and nuanced issues that have important consequences for how we think about autism and disability. Furthermore, autistic perspectives can be brought to bear on philosophical questions. For example, autism calls into question some prominent philosophical theories of language, mind, agency, responsibility, and normativity.
 
-Here are some themes and techniques that we currently work on:
+This research project project seeks to critically examine philosophical perspectives on autism—the ‘philosophy of autism’ component—and advance autistic perspectives on philosophical theories—the ‘autistic philosophy’ component. In doing so, this project seeks to centre autistic voices and correct harmful misinformation that has proliferated in philosophical discourse about autism to date.
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+The first concrete objective of this research project is to conduct a scoping review of philosophical work on autism to map the current research landscape and highlight gaps in the literature—particularly the gap created by the lack of autistic scholars working on the subject. This review will empirically validate some of the anecdotal claims made above and lay the foundation for the philosophy of autism as a proper research subject; this is the 'philosophy of autism' component of the proposal and the primary goal of the project's first year. These research findings will be disseminated to academic and public audiences via conference talks, academic publications, and a project website with recorded talks and lay summaries of research for general audiences.
 
-
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
-
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
-
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
-
-We also detected and investigated a quite particular YSR state in the same material.
-
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
-
-
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
-
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
-
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
-### ... and more.
+In addition, this project seeks to clarify the benefits of neurodiverse approaches to existing philosophical research and theories. Many philosophers—based on experiments from the 1980s—uncritically assume that autistics lack a theory of mind. They then draw philosophical consequences from this assumption; for example, some researchers argue that 'if autistics lack a theory of mind, they lack empathy' (Baron-­Cohen 2005). This latter consequence implies that autistics cannot live a 'good life' (in the philosophical sense). However, recent work—especially by autistic scholars—gives lie to such assumptions (Milton 2012; Yergeau 2018; Chapman 2020b). Thus, as a second goal, this project seeks to correct stigmatising misinformation about autism that has been reflected in, and perpetuated by, uncritical philosophical work on the subject.
