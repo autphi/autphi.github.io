@@ -4,5 +4,5 @@ This is the website for Philosophy on the Spectrum, and academic research projec
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch. 
 
-Copyright Allan Lab. Code released under the MIT License.
+Copyright AutPhi. Code released under the MIT License.
 
