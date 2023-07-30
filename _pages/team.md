@@ -6,9 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-# Research Team
+## Research Team
 
-## Principal Investigator
+### Principal Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -73,7 +73,7 @@ permalink: /team/
 
 
 
-## Research Assistants
+### Research Assistants
 {% assign number_printed = 0 %}
 {% for member in site.data.RAs %}
 
@@ -126,6 +126,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+Coming Soon!
 
 <!--
 ## Former RAs
