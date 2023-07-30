@@ -75,7 +75,7 @@ permalink: /team/
 
 ## Research Assistants
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.RAs %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -127,29 +127,30 @@ permalink: /team/
 {% endif %}
 
 
-
+<!--
 ## Former RAs
 <div class="row">
 
 <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
+{% for member in site.data.former %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
+{% for member in site.data.former_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
+{% for member in site.data.former_bsc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 </div>
+-->
