@@ -6,6 +6,6 @@ sitemap: false
 permalink: /resources/
 ---
 
-# Resources
+## Resources
 
 Coming soon!
