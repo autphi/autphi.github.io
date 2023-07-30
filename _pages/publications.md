@@ -7,9 +7,9 @@ permalink: /publications/
 ---
 
 
-# Publications
+## Publications
 
-## Recent and In Progress
+### Recent and In Progress
 
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications) under this research project.**
 
@@ -52,7 +52,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List of publications
+### Full List of publications
 
 {% for publi in site.data.publist %}
 
