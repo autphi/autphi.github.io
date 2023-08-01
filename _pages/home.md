@@ -19,3 +19,7 @@ Philosophy on the Spectrum is supported in part by funding from the [Social Scie
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sshrc-fip-full-color-eng.jpg" style="max-width:100%">
 </figure>
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AutPhi-Main.png" style="max-width:100%">
+</figure>
