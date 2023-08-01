@@ -16,10 +16,6 @@ This research project is currently housed in the Faculty of Arts and Social Scie
 
 Philosophy on the Spectrum is supported in part by funding from the [Social Sciences and Humanities Research Council](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx).
 
-<div class="image-container">
-    [![AutPhi]({{ site.url }}{{ site.baseurl }}/images/logopic/sshrc-fip-full-color-eng.jpg)](https://autphi.github.io/home)
-</div>
-
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sshrc-fip-full-color-eng.jpg" style="max-width:100%">
 </figure>
