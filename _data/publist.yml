@@ -1,13 +1,9 @@
-- title: "Autism and the Pseudoscience of Mind"
-  description: "Theory-of-mind-deficit explanations of autism have been of particular interest to philosophers in light of the normative and theoretical entailments of an individual who is 'unable' to attribute mental states to others. This fact would have consequences for epistemology, theories of mind, theories of meaning, and normative theory, among others. However, the claim that autistics lack a theory of mind is false. The purpose of this paper is to describe how this claim is false. I begin by reviewing research that suggests that theory-of-mind-deficits cannot be adequate as an explanatory model for autism. I then rehearse the empirical failures of experiments intended to measure theory-of-mind abilities. Finally, I argue that experimental 'evidence' for the theory-of-mind-deficit explanation of autism amounts to pseudoscience by exploring the following two questions: *Do tests of theory of mind measure theory of mind?* *What test could disprove the claim that autistics lack a theory of mind?* I conclude by examining this argument's consequences for philosophers who uncritically invoke autism (*qua* theory-of-mind deficit) as a thought experiment."
-  authors: T. LaCroix
-    display: - Philosophy Department Colloquium, Dalhousie University
-    - Canadian Society for the History and Philosophy of Sceince (CSHPS)
+- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
+  image: imageaward_edited.png
+  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
+  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+  link:
+    url: https://www.nature.com/articles/s41467-023-39109-w
+    display: Nature Communications 4, 3341 (2023)
   highlight: 1
-  news1: Draft Forthcoming
-
-- title: "On Being in (Autistic) Community"
-  description: ""
-  authors: T. LaCroix
-  highlight: 1
-  news1: Draft Forthcoming
+  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
