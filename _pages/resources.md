@@ -10,12 +10,12 @@ permalink: /resources/
 
 ### Autism Information
 
-- [Embrace Autism](https://embrace-autism.com/)
+- <a href="https://embrace-autism.com/" style="color:#D4AF37;">Embrace Autism</a>
 
 ### Autism Advocacy
 
-- [Autistic Self-Advocacy Network (ASAN)](https://autisticadvocacy.org/)
-- [Autism Nova Scotia](https://www.autismnovascotia.ca/)
+- <a href="https://autisticadvocacy.org/" style="color:#D4AF37;">Autistic Self-Advocacy Network (ASAN)</a>
+- <a href="[https://autisticadvocacy.org/](https://www.autismnovascotia.ca/)" style="color:#D4AF37;">Autism Nova Scotia</a>
 
 ### The Philosophy of Autism
 
