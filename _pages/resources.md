@@ -8,4 +8,19 @@ permalink: /resources/
 
 ## Resources
 
-Coming soon!
+### Autism Information
+
+- [Embrace Autism](https://embrace-autism.com/)
+
+### Autism Advocacy
+
+- [Autistic Self-Advocacy Network (ASAN)](https://autisticadvocacy.org/)
+- [Autism Nova Scotia](https://www.autismnovascotia.ca/)
+
+### The Philosophy of Autism
+
+- Coming Soon
+
+### Autistic Philosophy
+
+- Coming Soon
