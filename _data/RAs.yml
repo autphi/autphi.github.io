@@ -1,11 +1,8 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Alexis Amero
+  photo: Amero.jpg
+  info: "Research Assistant, Fall 2023"
+  email: "I am an undergraduate student at the University of King’s College working toward completing a BA (Hons.) in Philosophy at Dalhousie. My research interests currently lie in Social Philosophy and Ethics, especially Feminism, Gender, and Sexuality Studies"
+  number_educ: 1
+  education1: "BA (Hons.) Philosophy, University of King's College"
 
 
