@@ -126,8 +126,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-Coming Soon!
-
 <!--
 ## Former RAs
 <div class="row">
