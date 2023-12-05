@@ -19,7 +19,8 @@ permalink: /resources/
 
 ### The Philosophy of Autism
 
-- Coming Soon
+- <a href="https://neurodiving.fm/" style="color:#B08F46;">NeuroDiving: A Philosophy Podcast about Neurodivergence</a>
+- Additional Resources Coming Soon
 
 ### Autistic Philosophy
 
