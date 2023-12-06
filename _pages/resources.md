@@ -10,16 +10,16 @@ permalink: /resources/
 
 ### Autism Information
 
-- <a href="https://embrace-autism.com/" style="color:#B08F46;">Embrace Autism</a>
+- [Embrace Autism](https://embrace-autism.com/)
 
 ### Autism Advocacy
 
-- <a href="https://autisticadvocacy.org/" style="color:#B08F46;">Autistic Self-Advocacy Network (ASAN)</a>
-- <a href="https://www.autismnovascotia.ca/" style="color:#B08F46;">Autism Nova Scotia</a>
+- [Autistic Self-Advocacy Network (ASAN)](https://autisticadvocacy.org/)
+- [Autism Nova Scotia](https://www.autismnovascotia.ca/)
 
 ### The Philosophy of Autism
 
-- <a href="https://neurodiving.fm/" style="color:#B08F46;">NeuroDiving: A Philosophy Podcast about Neurodivergence</a>
+- [NeuroDiving: A Philosophy Podcast about Neurodivergence](https://neurodiving.fm/)
 - Additional Resources Coming Soon
 
 ### Autistic Philosophy
