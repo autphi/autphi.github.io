@@ -11,7 +11,7 @@ permalink: /publications/
 
 ### Recent and In Progress
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications) under this research project.**
+**At the end of this page, you can find the <a href="#full-list-of-publications" style="color:#B08F46;">full list of publications</a> under this research project.**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -29,7 +29,7 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}" style="color:#D4AF37;">{{ publi.link.display }}</a></strong></p>
+  <p><strong><a href="{{ publi.link.url }}" style="color:#B08F46;">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -57,6 +57,6 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}" style="color:#D4AF37;">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}" style="color:#B08F46;">{{ publi.link.display }}</a>
 
 {% endfor %}
