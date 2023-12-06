@@ -5,7 +5,7 @@
   link:
     url: https://philsci-archive.pitt.edu/22817/
     display: PhilSci-Archive Preprint
-  highlight: 0
+  highlight: 1
   news1: Presented at the *Canadian Society for the History and Philosophy of Science* (Toronto, 2023)
   news2: Presented at the *Atlantic Regional Philosophers Association* (Charlottetown, 2023)
 
@@ -16,5 +16,5 @@
   link:
     url: https://www.dal.ca/faculty/arts/philosophy.html
     display: Presented at the Dalhousie Philosophy Department Colloquium Series
-  highlight: 0
+  highlight: 1
   news1: Draft forthcoming!
