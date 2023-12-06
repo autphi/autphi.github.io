@@ -15,11 +15,24 @@ $gray:                   lighten($gray-base, 33.5%) !default; // #555
 $gray-light:             lighten($gray-base, 60%) !default;   // #999
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
 
-$brand-primary:         #B08F46 !default;
+$brand-primary:         #158CBA !default;
 $brand-success:         #28B62C !default;
 $brand-info:            #75CAEB !default;
 $brand-warning:         #FF851B !default;
 $brand-danger:          #FF4136 !default;
+
+$au_t1: #b08f46 !default;
+$au_t2: #8b7137 !default;
+$au_t3: #e0d2b3 !default;
+$au_t4: #e8ddc5 !default;
+$au_t5: #584723 !default;
+$au_t6: #806833 !default;
+$au_t7: #967a3b !default;
+$au_t8: #332a14 !default;
+$au_t9: #ede5d4 !default;
+
+$au_shadow: rgba(176, 143, 70, 0.5);
+$au_text_color_dark_bright: #212529;
 
 
 //== Scaffolding
@@ -32,7 +45,7 @@ $body-bg:               #fff !default;
 $text-color:            $gray !default;
 
 //** Global textual link color.
-$link-color:            $brand-primary !default;
+$link-color:            $au_t1 !default;
 //** Link hover color set via `darken()` function.
 $link-hover-color:      $link-color !default;
 //** Link hover decoration.
