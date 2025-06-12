@@ -33,6 +33,7 @@ permalink: /publications/
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
   <p> {{ publi.news3 }}</p>
+  <p> {{ publi.news4 }}</p>
  </div>
 </div>
 
