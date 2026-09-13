@@ -1,14 +1,45 @@
+- title: "The Autistics and the Machines: Theory of Mind, Artificial Intelligence, and the Politics of Measurement"
+  image: CSHPS-2026-Cover.png
+  description: "Recent work in artificial intelligence claims that large language models (LLMs) may exhibit theory-of-mind abilities, based on their performance on classic experimental paradigms from psychology, such as false-belief tasks. However, instead of revealing emergent machine cognition, these results expose the normative, exclusionary, and linguistically biased assumptions embedded in how theory of mind has been operationalised and measured."
+  authors: Travis LaCroix
+  link:
+    url: https://cshps.ca/annual-conference/
+    display: Presented at the *Canadian Society for the History and Philosophy of Science* (Halifax, 2026)
+  highlight: 1
+  news1: Draft forthcoming!
+  
+- title: "Autism and the Pseudoscience of Mind"
+  image: PsychInq-Cover.jpeg
+  description: Experimental 'evidence' for the theory-of-mind-deficit explanation of autism amounts to pseudoscience.
+  authors: Travis LaCroix
+  link:
+    url: https://doi.org/10.1080/1047840X.2025.2605590
+    display: 2025. *Psychological Inquiry*. 36(4): 229–261. 
+  highlight: 1
+  news2: Presented at the *Durham University Philosophy Seminar* (Durham, 2025)
+  news3: Presented at the *Canadian Society for the History and Philosophy of Science* (Toronto, 2023)
+  news4: Presented at the *Dalhousie Philosophy Department Colloquium Series* (Halifax, 2023)
+  news5: Presented at the *Atlantic Regional Philosophers Association* (Charlottetown, 2023)
+
+- title: "Autism, Theory of Mind, and the Dynamics of Value-Laden Research Programs"
+  image: PsychInq-Cover.jpeg
+  description: Reply to commentaries on "Autism and the Pseudoscience of Mind".
+  authors: Travis LaCroix
+  link:
+    url: https://doi.org/10.1080/1047840X.2026.2623813
+    display: 2025. *Psychological Inquiry*. 36(4): 306–320. 
+  highlight: 1
+
 - title: "What Do Philosophers Talk About When They Talk About Autism?"
   image: synthese_cover-18p9g6k.png
   description: "This paper provides an empirical analysis of philosophical engagement with autism and autism research. We conduct a comprehensive scoping review to systematically map and summarise the philosophical literature on autism. Initial data suggest that philosophy has done an astonishingly poor job of keeping up with critical and conceptual developments about autism. We take these results to be particularly relevant to the philosophy of science insofar as many false or misleading claims about autism (including claims about defining characteristics, causal explanations, prevalence rates, etc.) come directly from scientific research on (e.g., nosology, aetiology, epidemiology, etc.). Consequently, it is somewhat surprising that philosophers of science have had relatively little engagement with autism and autism research."
   authors: Travis LaCroix, Alexis Amero, and Benjamin Sidloski
   link:
-    url: https://autphi.github.io/downloads/LaCroix-et-al-2025-WDPTAWTTAA-Synthese-Preprint.pdf
-    display: 2025. Forthcoming in *Synthese*. Preprint available here.
+    url: https://doi.org/10.1007/s11229-025-05116-1
+    display: 2025. *Synthese*. 206(63): 1–47.
   highlight: 1
-  news2: Accepted for publication in *Synthese* (June, 2025)
-  news3: Presented at the *Canadian Society for the History and Philosophy of Science* (Montréal, 2024)
-  news4: Presented at the *Dalhousie Philosophy Department Colloquium Series* (Halifax, 2024)
+  news2: Presented at the *Canadian Society for the History and Philosophy of Science* (Montréal, 2024)
+  news3: Presented at the *Dalhousie Philosophy Department Colloquium Series* (Halifax, 2024)
 
 - title: "The Autistic Metrestick in Paris: Autism and the Value-Free Ideal of Science"
   image: Paper-Image-Autistic-Metrestick.png
@@ -19,18 +50,6 @@
     display: Presented at the *Dalhousie Philosophy Department Colloquium Series* (Halifax, 2024)
   highlight: 1
   news1: Draft forthcoming!
-  
-- title: "Autism and the Pseudoscience of Mind"
-  image: Paper-Image-Pseudoscience.png
-  description: Experimental 'evidence' for the theory-of-mind-deficit explanation of autism amounts to pseudoscience.
-  authors: Travis LaCroix
-  link:
-    url: https://philsci-archive.pitt.edu/22817/
-    display: PhilSci-Archive Preprint
-  highlight: 1
-  news2: Presented at the *Canadian Society for the History and Philosophy of Science* (Toronto, 2023)
-  news3: Presented at the *Dalhousie Philosophy Department Colloquium Series* (Halifax, 2023)
-  news4: Presented at the *Atlantic Regional Philosophers Association* (Charlottetown, 2023)
 
 - title: "On Being In (Autistic) Community"
   image: Paper-Image-Community.png
